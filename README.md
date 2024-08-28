@@ -11,3 +11,5 @@ Upper: (220-age) * 0.85
 
 
 UI is as follows. User types in age and app will calculate hr limits when calculate button is pressed.
+
+<img src="IMG_C699D919E75D-1.jpeg" alt="User Interface"/>
